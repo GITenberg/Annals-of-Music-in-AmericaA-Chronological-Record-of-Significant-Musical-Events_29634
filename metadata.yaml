@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5731
     wikipedia: http://en.wikipedia.org/wiki/Henry_Charles_Lahee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29634#Annals-of-Music-in-AmericaA-Chronological-Record-of-Significant-Musical-Events
 gutenberg_issued: '2009-08-08'
 gutenberg_type: Text
 identifiers:
